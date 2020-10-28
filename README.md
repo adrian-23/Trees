@@ -4,8 +4,9 @@ TreeNode Class for trees
 
 ## Description
 
-Helper class for dealing with trees
+Helper class for trees
 
 ## How to use:
 
-Clone the repo and import it to your file
+- Clone the repo
+- import it to your file
